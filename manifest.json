@@ -1,0 +1,17 @@
+{
+  "name": "WorkFlowy",
+  "description": "Organize your brain. Make lists. Not war.",
+  "version": "0.0.1",
+  "icons": {
+    "128": "workflowy_icon.png"
+  },
+  "app": {
+    "urls": [
+      "*://workflowy.com/",
+			"*://www.workflowy.com/"
+    ],
+    "launch": {
+      "web_url": "http://workflowy.com/"
+    }
+  }
+}
